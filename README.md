@@ -1,4 +1,4 @@
-from datetime import datetim
+from datetime import datetimE
 
 def log_activity():
     now = datetime.now()
